@@ -1,0 +1,8 @@
+<servlet-mapping>
+    <servlet-name>product-servlet</servlet-name>
+    <url-pattern>/ProdServlet</url-pattern>
+  </servlet-mapping>
+  <servlet>
+    <servlet-name>product-servlet</servlet-name>
+    <servlet-class>productID.ProdServlet</servlet-class>
+  </servlet>
